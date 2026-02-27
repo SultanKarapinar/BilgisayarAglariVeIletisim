@@ -10,7 +10,6 @@ Bu repo aşağıdaki konuları kapsamaktadır:
 - OSI Referans Modeli
 - TCP/IP Modeli
 - IP Adresleme
-- Subnetting
 - MAC Adresleme
 - Yönlendirme (Routing) Protokolleri
 - Veri İletim Teknikleri
